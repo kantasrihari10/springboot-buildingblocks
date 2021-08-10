@@ -9,6 +9,7 @@ public class SpringbootBuildingblocksApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootBuildingblocksApplication.class, args);
 		System.out.println("hello2");
+		System.out.println("Hi");
 	}
 
 }
