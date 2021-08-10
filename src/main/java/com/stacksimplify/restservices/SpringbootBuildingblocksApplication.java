@@ -10,6 +10,7 @@ public class SpringbootBuildingblocksApplication {
 		SpringApplication.run(SpringbootBuildingblocksApplication.class, args);
 		System.out.println("hello2");
 		System.out.println("Hi");
+		System.out.println("hari");
 	}
 
 }
